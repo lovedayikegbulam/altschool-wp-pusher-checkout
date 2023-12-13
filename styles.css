@@ -341,24 +341,137 @@ form > hr {
 	border: 2px solid yellow;
 }
 
+.first-side-bar-container {
+	max-width: 231px;
+	min-height: 152px;
+	border: 2px solid red;
+
+	.freelance {
+		max-width: 93px;
+		min-height: 24px;
+		border: 2px solid red;
+
+		h6 {
+			color: #fff;
+			font-family: "Lato", sans-serif;
+			font-size: 20px;
+			font-style: normal;
+			font-weight: 700;
+			line-height: normal;
+			letter-spacing: -0.01px;
+		}
+	}
+
+	.pricing {
+		width: 140px;
+		height: 72px;
+		border: 2px solid black;
+		flex-shrink: 0;
+		color: rgba(255, 255, 255, 1);
+		display: flex;
+		align-content: flex-start;
+		margin-top: 8px;
+
+		sup {
+			max-width: 14px;
+			min-height: 29px;
+			color: rgba(255, 255, 255, 1);
+			font-family: "Lato", sans-serif;
+			font-size: 24px;
+			font-style: normal;
+			font-weight: 700;
+			line-height: normal;
+			letter-spacing: -0.015px;
+			margin-top: 11px;
+		}
+
+		strong {
+			color: rgba(255, 255, 255, 1);
+			font-family: Lato;
+			font-size: 60px;
+			font-style: normal;
+			font-weight: 300;
+			line-height: normal;
+			letter-spacing: -0.015px;
+		}
+
+		span {
+			color: rgba(255, 255, 255, 1);
+			font-family: "Lato", sans-serif;
+			font-size: 18px;
+			font-style: normal;
+			font-weight: 700;
+			line-height: normal;
+			letter-spacing: -0.015px;
+		}
+	}
+
+	.renewal {
+		max-width: 229px;
+		min-height: 48px;
+		border: 2px solid red;
+		margin-top: 8px;
+		p {
+			color: rgba(255, 255, 255, 1);
+			font-family: "Lato", sans-serif;
+			font-size: 16px;
+			font-style: italic;
+			font-weight: 400;
+			line-height: 24px;
+			/* 150% */
+			letter-spacing: -0.008px;
+		}
+	}
+}
+
+.second-side-bar-container {
+	max-width: 170px;
+	min-height: 96px;
+	margin-top: 10px;
+	border: 2px solid red;
+}
+
+.second-column-inner-wrapper > hr {
+	max-width: 224px;
+	min-height: 2px;
+	margin: 20px auto;
+	border: none;
+	background-color: rgba(224, 230, 234, 1);
+	opacity: 20.05%;
+}
+
+.third-side-bar-container {
+	max-width: 184px;
+	min-height: 51px;
+	margin-top: 10px;
+	border: 2px solid red;
+}
+
+.fourth-side-bar-container {
+	max-width: 229px;
+	min-height: 196px;
+	margin-top: 10px;
+	border: 2px solid red;
+}
+
 footer {
 	width: 867px;
 	height: 17px;
 	margin: 10px auto;
 	border: 1px solid red;
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    flex-wrap: wrap;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-wrap: wrap;
 
 	p {
 		width: 303px;
 		height: 16px;
 		color: rgba(99, 107, 111, 1);
-        font-family: "Lato", sans-serif;
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 16.8px;
+		font-family: "Lato", sans-serif;
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 16.8px;
 
 		strong {
 			color: rgba(49, 112, 143, 1);
