@@ -1,0 +1,75 @@
+[33mcommit bd40ef51e2e59fe3e65ac57dc883788b3ff2cd68[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 4ecd2e7 fcaeb45
+Author: Loveday Ikegbulam <lovedayikegbulam515@gmail.com>
+Date:   Thu Dec 14 16:34:07 2023 +0100
+
+    Merge branch 'main' of https://github.com/lovedayikegbulam/altschool-wp-pusher-checkout
+
+[33mcommit 4ecd2e76e6ffe8b11d8b601a1722046aa9823243[m[33m ([m[1;32mdev[m[33m)[m
+Author: Loveday Ikegbulam <lovedayikegbulam515@gmail.com>
+Date:   Thu Dec 14 16:30:40 2023 +0100
+
+    aligned contents
+
+[33mcommit fcaeb45a8564a6b40a9b208d072abba882ba64df[m
+Merge: a914dc0 1cda4a0
+Author: Loveday Ikegbulam <52139091+lovedayikegbulam@users.noreply.github.com>
+Date:   Wed Dec 13 11:58:13 2023 +0100
+
+    Merge pull request #3 from lovedayikegbulam/dev
+    
+    Dev
+
+[33mcommit 1cda4a02872838a0b4c9bacb2f7f1d12998730ee[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: loveday515 <lovedayikegbulam515@gmail.com>
+Date:   Wed Dec 13 11:54:14 2023 +0100
+
+    add first-column background color
+
+[33mcommit e18cf7a775e2f66cbe3b69d4c90f41a7c58cb500[m
+Author: loveday515 <lovedayikegbulam515@gmail.com>
+Date:   Wed Dec 13 11:49:31 2023 +0100
+
+    remove dev borders
+
+[33mcommit a914dc08da10570dd4118ba9107d98734fb35c7f[m
+Merge: 07ce03e b656a68
+Author: Loveday Ikegbulam <52139091+lovedayikegbulam@users.noreply.github.com>
+Date:   Wed Dec 13 11:37:29 2023 +0100
+
+    Merge pull request #2 from lovedayikegbulam/dev
+    
+    finish sidebar styling
+
+[33mcommit b656a68460d510d350f1bb929250d7f9afabdd18[m
+Author: loveday515 <lovedayikegbulam515@gmail.com>
+Date:   Wed Dec 13 11:36:15 2023 +0100
+
+    finish sidebar styling
+
+[33mcommit 07ce03e083aac6784aee0cfa458d440e19973632[m
+Merge: bfae1c6 4641c59
+Author: Loveday Ikegbulam <52139091+lovedayikegbulam@users.noreply.github.com>
+Date:   Wed Dec 13 09:35:36 2023 +0100
+
+    Merge pull request #1 from lovedayikegbulam/dev
+    
+    re-arrange css file code
+
+[33mcommit 4641c59e019fc3ad2b219c274ca09ed6bef5c176[m
+Author: loveday515 <lovedayikegbulam515@gmail.com>
+Date:   Wed Dec 13 09:34:35 2023 +0100
+
+    re-arrange css file code
+
+[33mcommit bfae1c66e39a471dfc3fa87a80ed0f108dcac95c[m
+Author: loveday515 <lovedayikegbulam515@gmail.com>
+Date:   Tue Dec 12 10:29:17 2023 +0100
+
+    built first column
+
+[33mcommit 928e972cb03a8ad26b3f38b60f533e0ec5ce2a77[m
+Author: loveday515 <lovedayikegbulam515@gmail.com>
+Date:   Sat Dec 9 09:42:45 2023 +0100
+
+    first commit
