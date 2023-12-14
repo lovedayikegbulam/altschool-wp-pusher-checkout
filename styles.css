@@ -112,6 +112,7 @@ nav > ul {
 }
 
 nav > ul > li:last-child {
+	border: 2px solid rgba(100, 110, 122, 1);
 	border-radius: 6px;
 	width: 91px;
 	height: 40px;
@@ -152,34 +153,35 @@ form {
 form > hr {
 	max-width: 580px;
 	height: 2px;
-	margin-top: 5px;
-	margin-bottom: 5px;
+	margin-bottom: 20px;
 }
 
 .form-title {
 	max-width: 580px;
 	min-height: 80px;
-
-	margin: 15px auto;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
 }
 
 .form-title-text-container {
 	max-width: 161px;
 	min-height: 54px;
-	margin-bottom: 5px;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
 }
 
 .form-basic-info {
 	max-width: 580px;
 	min-height: 221px;
 
-	margin: 10px auto;
+	margin: 0px auto;
 }
 
 .form-basic-info-text-container {
 	max-width: 260px;
 	min-height: 35px;
-
 	display: flex;
 	align-content: center;
 	flex-wrap: wrap;
@@ -262,13 +264,13 @@ form > hr {
 .form-purchase {
 	max-width: 483px;
 	min-height: 146.1px;
-
-	margin: 10px auto;
+	margin: 15px auto;
 }
 
 .form-purchase > button {
 	width: 483px;
 	height: 52px;
+	margin-top: 10px;
 	background-color: rgba(3, 142, 125, 1);
 	color: rgba(255, 255, 255, 1);
 	font-family: "Lato", sans-serif;
@@ -281,8 +283,7 @@ form > hr {
 .form-purchase > #form-purchase-info-text-container {
 	max-width: 333px;
 	height: 20px;
-
-	margin: 0 auto;
+	margin: 10px auto;
 	display: flex;
 	justify-content: center;
 	align-content: center;
@@ -291,7 +292,7 @@ form > hr {
 	h6 {
 		width: 20px;
 		height: 20px;
-
+        border: 2px solid rgba(84, 139, 197, 1);
 		border-radius: 50%;
 		color: rgba(84, 139, 197, 1);
 		text-align: center;
@@ -336,7 +337,7 @@ form > hr {
 .second-column-inner-wrapper {
 	width: 231px;
 	height: 610px;
-	margin: 15px auto;
+	margin: 27px auto;
 }
 
 .first-side-bar-container {
@@ -559,7 +560,7 @@ form > hr {
 footer {
 	width: 867px;
 	height: 17px;
-	margin: 10px auto;
+	margin: 20px auto;
 
 	display: flex;
 	justify-content: center;
