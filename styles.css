@@ -224,12 +224,29 @@ form > hr {
 	margin-top: 10px;
 }
 
+input {
+	width: 187px;
+	height: 17px;
+	margin-left: 10px;
+	background-color: inherit;
+	border: none;
+	color: rgba(100, 110, 122, 1);
+	font-family: Lato;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
 .input-field-small {
 	width: 227px;
 	min-height: 36px;
 	border: none;
 	border-radius: 5px;
 	background-color: rgba(237, 239, 242, 1);
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
 }
 
 .input-field-medium {
@@ -238,6 +255,9 @@ form > hr {
 	border: none;
 	border-radius: 5px;
 	background-color: rgba(237, 239, 242, 1);
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
 }
 
 .input-field-large {
@@ -246,7 +266,35 @@ form > hr {
 	border: none;
 	border-radius: 5px;
 	background-color: rgba(237, 239, 242, 1);
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+
+	#credit-card {
+		max-width: 154px;
+		height: 17px;
+		margin-right: 20%;
+	}
+
+	#month-year {
+		max-width: 154px;
+		height: 17px;
+		display: flex;
+		justify-content: center;
+
+		::placeholder {
+			color: red;
+		}
+	}
+
+	#cvc {
+		max-width: 36px;
+		height: 17px;
+		margin-left: 2px;
+	}
 }
+
+
 
 .form-payment {
 	max-width: 580px;
@@ -292,7 +340,7 @@ form > hr {
 	h6 {
 		width: 20px;
 		height: 20px;
-        border: 2px solid rgba(84, 139, 197, 1);
+		border: 2px solid rgba(84, 139, 197, 1);
 		border-radius: 50%;
 		color: rgba(84, 139, 197, 1);
 		text-align: center;
