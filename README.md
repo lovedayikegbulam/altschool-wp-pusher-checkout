@@ -3,7 +3,8 @@
 This project is an Alt school Africa, software engineering program first semester project
 
 ## Demo
-![Screenshot (965)](https://github.com/lovedayikegbulam/altschool-africa-form-project/assets/52139091/7e9a5549-96f5-4179-88ff-7d6ad335eaef)
+![Screenshot (967)](https://github.com/lovedayikegbulam/altschool-wp-pusher-checkout/assets/52139091/ca519d34-884c-42c5-8304-ab9e187bac2b)
+
 
 
 ## Getting Started
