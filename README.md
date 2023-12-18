@@ -24,7 +24,7 @@ Open the html file as you would in any browser
 * CSS
 
 ## Contributions
-This is a courswork individual project set up for grading and wouldn't be requiring any contributions
+This is a coursework individual project set up for grading and wouldn't be requiring any contributions
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
